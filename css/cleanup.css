@@ -1,2 +1,6 @@
 /* write your override styles here */
-display:none;
+.tag-1 {
+  background: url(../image/tag-1.png) no-repeat;
+  z-indez: 7;
+  display: block;
+}
